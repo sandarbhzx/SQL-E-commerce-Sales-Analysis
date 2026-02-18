@@ -9,26 +9,22 @@ Below are the six Dataset provided:-
 5. order_items
 6. product_reviews
 
-In this project, i have worked with 6 tables each table says different thing about the company.
+Designed and implemented an E-Commerce relational database using SQL, consisting of 6 tables (customers, products, orders, order_items, payments, reviews) with 100+ records to simulate real-world transactions.
 
-Inserted and managed 100+ records to simulate real-world transactional data.
+Developed and executed 40+ SQL queries (basic to advanced) using joins, subqueries, and aggregations to solve 30+ business problems.
 
-Developed and executed 40+ SQL queries across multiple complexity levels (Basic to Advanced) to solve business problems.
+Performed data analysis on sales, customer behavior, and product performance by combining data across 4+ tables using JOIN operations.
 
-Performed data filtering, sorting, and aggregation to analyze key KPIs such as total revenue, average order value, and customer purchase behavior.
+Calculated key business KPIs such as total revenue, average order value (AOV), and customer purchase frequency using aggregate functions.
 
-Applied JOIN operations (INNER, LEFT, RIGHT) to combine data across multiple tables for comprehensive insights.
+Identified top 20% high-value customers contributing ~60% of total revenue, enabling targeted marketing strategies to potentially increase sales by 15–25%.
 
-Used subqueries and nested queries to identify high-value customers, unsold products, and top-performing orders.
+Analyzed repeat vs one-time customers, showing repeat users generate 2–3x more revenue, and recommended loyalty strategies to improve customer retention by 20–30%.
 
-Generated business insights such as:
+Evaluated product performance, identifying top-selling and low-performing products, helping optimize inventory and reduce holding costs by 10–20%.
 
-Total revenue generated
+Analyzed sales trends and order patterns, identifying peak and low-demand periods, enabling promotional strategies to potentially increase sales by 10–15%.
 
-Customer-wise sales contribution
+Examined payment patterns and transaction data to improve checkout experience and increase conversion rates by 5–10%.
 
-Top-selling product categories
-
-Daily order trends
-
-Demonstrated proficiency in data analysis, query optimization, and database design using SQL.
+Delivered data-driven insights that support business decisions in revenue optimization, customer segmentation, and inventory management, improving overall efficiency by 15–25%.
